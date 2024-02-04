@@ -1,0 +1,19 @@
+{
+    "name": "employee-tracker",
+    "version": "1.0.0",
+    "description": "An application for tracking employees and pay for your company",
+    "main": "index.js",
+    "scripts": {
+       "test": "npm test"
+    },
+    "author": "Stretch Spelman",
+    "license": "UNLICENSED",
+      "homepage": "https://github.com/StretchSpelman/Employee-tracker#readme",
+      "dependencies": {
+        "ascii-art": "^2.8.5",
+        "inquirer": "^8.2.0",
+        "mysql2": "^2.3.0",
+        "table": "^6.8.1"
+      }
+    
+   }
